@@ -72,7 +72,7 @@ residual_blocks = False
 
 
 ### output data
-base_folder   = 'experiments'
+base_folder   = '/home/am2l/Documents/lcy/sbtm'
 system_folder = 'swimmer_test'
 output_folder = f'{base_folder}/{system_folder}'
 ################################################
