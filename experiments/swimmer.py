@@ -72,7 +72,7 @@ residual_blocks = False
 
 
 ### output data
-base_folder   = '/scratch/nb3397/results/sbtm_results'
+base_folder   = 'experiments'
 system_folder = 'swimmer_test'
 output_folder = f'{base_folder}/{system_folder}'
 ################################################
